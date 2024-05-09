@@ -1,0 +1,3 @@
+[submodule "CREMA-D"]
+	path = CREMA-D
+	url = git@github.com:CheyneyComputerScience/CREMA-D.git
